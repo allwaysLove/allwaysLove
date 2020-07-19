@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a sophomore in college.
 - 🌱 I’m currently learning Scrapy.
-- 📫 How to reach me: 
+- 📫 How to contact me: 
   - :email: E-mail: 1067764354@qq.com
   -    <img src="https://github.com/allwaysLove/allwaysLove/blob/master/QQ-icon.png" width="20em" style="margin-left: 0.1em;"/>&nbsp;QQ: 107764354
 
