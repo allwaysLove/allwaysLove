@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m a sophomore in college.
 - 🌱 I’m currently learning Golang.
 - 📫 How to contact me: 
   - :email: E-mail: 1067764354@qq.com
